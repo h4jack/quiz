@@ -1,0 +1,32 @@
+.question_form{
+    width: 90%;
+    text-align: left;
+}
+
+.questions{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    overflow-Y: auto;
+    overflow-X: auto;
+
+}
+
+.question-table{
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: 2px solid white;
+    padding: 10px;    
+}

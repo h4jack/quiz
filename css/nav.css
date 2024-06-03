@@ -1,0 +1,57 @@
+.nav {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #092635;
+    border-radius: 10px;
+    color: #b6b4e3;
+    box-shadow: 0px 0px 10px #303030;
+}
+
+.username {
+    display: flex;
+    flex-direction: column;
+}
+
+.username h2 {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.username p {
+    margin: 0;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.logout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logout form {
+    margin: 0;
+    padding: 0;
+}
+
+.logout input[type="submit"] {
+    height: auto;
+    width: auto;
+    padding: 10px;
+    background-color: rgba(118, 13, 13, 0.66);
+    color: #fffefe;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgb(48, 44, 3);
+    transition: transform 0.5s ease;
+}
+
+.logout input[type="submit"]:hover {
+    background-color: rgba(85, 60, 17, 0.66);
+    transform: translateY(-3px);
+    box-shadow: 0px 10px 20px rgba(68, 33, 33, 0.793);
+}

@@ -1,0 +1,11 @@
+.input_txt{
+    padding: 8px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    resize: vertical;
+    background-color: #00000040;
+    color: beige;
+}
