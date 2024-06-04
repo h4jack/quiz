@@ -1,6 +1,7 @@
 # Quiz
 
 This is a PHP-based quiz website that allows users to test their knowledge by answering quiz questions. The project uses HTML, CSS, JavaScript, PHP, and MySQL.
+
 ## Demo
 
 View/Use the project/site hosted on [Quiz-App](http://myloginphp.rf.gd/quiz)\
@@ -73,19 +74,21 @@ To use the expression calculator, you can compile the source files using a C com
 
 ### Admin
 - login as the quiz name:
-![admin login](https://github.com/h4jack/quiz/blob/main/assets/img1.png/)
+![admin login](./assets/log-on.jpeg)
 - create quiz:
-![admin login](https://github.com/h4jack/quiz/blob/main/assets/img1.png/)
+![create quiz](./assets/create-quiz.png)
 - edit/update/delete the quiz
-![admin login](https://github.com/h4jack/quiz/blob/main/assets/img1.png/)
+![update quiz](./assets/update-quiz.png)
 ### User
 - login same as you logged in on admin/quiz side.
 - enter the quiz name and go to give the quiz.
-![admin login](https://github.com/h4jack/quiz/blob/main/assets/img1.png/)
+![given-quizes](./assets/given-quizes.png)
 - give quiz answer/ and submit when you think it is completed.
-![admin login](https://github.com/h4jack/quiz/blob/main/assets/img1.png/)
+![submit-quiz](./assets/give-quiz.png)
 - see the result by clicking on the view button.
-![admin login](https://github.com/h4jack/quiz/blob/main/assets/img1.png/)## Expression Calculator Features
+![show-result](./assets/show-result.png)
+
+## Expression Calculator Features
 
 the quiz app provides the following features:
 - quiz creation
