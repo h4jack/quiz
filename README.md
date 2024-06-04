@@ -106,10 +106,14 @@ the quiz app provides the following features:
 
 - [@h4jack](https://www.github.com/h4jack)
 
+## Contribute
+
+This project open source you can contribute to this just clone and improve this project.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/h4jack/quiz/blob/main/LICENSE/)
+This project is licensed under the [GPL-3.0 license](https://github.com/h4jack/quiz/blob/main/LICENSE/)
+
 
 
 ## Feedback
