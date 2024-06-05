@@ -70,7 +70,7 @@ git clone https://github.com/h4jack/quiz.git C:\{path_to_xampp}\xampp\htdocs\qui
 [http://localhost/quiz/](http://localhost/quiz/)
 ## Usage
 
-To use the expression calculator, you can compile the source files using a C compiler and then run the executable. Here's how to use it:
+To use the quiz app follow this below example, or try using it on the hosted server.
 
 ### Admin
 - login as the quiz name:
